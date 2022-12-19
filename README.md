@@ -4,8 +4,12 @@
 
 ## FULL SCREEN VIEW
 
+![](./full-screen.png)
+
 ## IPAD VIEW
 
-## PHONE VIEW ONE
+![](./ipad-view.png)
 
-## PHONE VIEW TWO
+## PHONE VIEW
+
+![](./phone-view.png)

@@ -57,6 +57,7 @@ function Header() {
               {navElements.map((element) => {
                 return (
                   <ListItems
+                    key={element.className}
                     className={element.className}
                     color={element.color}
                   />
