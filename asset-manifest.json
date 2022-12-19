@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anamika4844/fourfront-form-technical-assignment/static/css/main.9b31e382.css",
+    "main.js": "/Anamika4844/fourfront-form-technical-assignment/static/js/main.79e06b33.js",
+    "static/js/787.f14ed0f2.chunk.js": "/Anamika4844/fourfront-form-technical-assignment/static/js/787.f14ed0f2.chunk.js",
+    "index.html": "/Anamika4844/fourfront-form-technical-assignment/index.html",
+    "main.9b31e382.css.map": "/Anamika4844/fourfront-form-technical-assignment/static/css/main.9b31e382.css.map",
+    "main.79e06b33.js.map": "/Anamika4844/fourfront-form-technical-assignment/static/js/main.79e06b33.js.map",
+    "787.f14ed0f2.chunk.js.map": "/Anamika4844/fourfront-form-technical-assignment/static/js/787.f14ed0f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b31e382.css",
+    "static/js/main.79e06b33.js"
+  ]
+}
