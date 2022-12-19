@@ -1,7 +1,7 @@
 function ListItems(props) {
   return (
     <li className="nav-item">
-      <a className="nav-link active" aria-current="page">
+      <a className="nav-link active" aria-current="page" href="/">
         <i className={props.className} style={{ color: props.color }}></i>
       </a>
     </li>

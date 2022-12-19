@@ -40,7 +40,9 @@ function Header() {
     <div id="wrapper">
       <nav className="navbar header-top fixed-top navbar-expand-lg navbar-dark bg-light navOne">
         <div className="container-fluid">
-          <a className="navbar-brand text-white">ameya</a>
+          <a className="navbar-brand text-white" href="/">
+            ameya
+          </a>
           <button
             className="navbar-toggler navbar-dark-active-color:"
             type="button"
